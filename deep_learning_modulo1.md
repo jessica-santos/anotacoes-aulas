@@ -15,7 +15,7 @@
 
 Uma rede mais complexa seria como o exemplo abaixo adicionando mais valores de entrada e neurônios na camada intermediária (chamada de hidden Layer  ou camada oculta):
 
-![](Varios-neuron.png)
+![](Varios-neurons.png)
 
 Na prática precisamos apenas definir as variáveis de entrada (X) e dizer qual a saída, no caso o preço, para cada exemplo. Todos os neurônios de entrada são ligados aos neurônios da camada oculta. A relação entre as variáveis é o que a rede vai aprender.
 
